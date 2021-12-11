@@ -1,0 +1,47 @@
+For video:
+<video src="file" controls poster=""> file alt </video>
+
+Video with more options:
+Autoplay: <video src="" autoplay controls></video>
+Loop: <video src="" loop controls></video>
+Resized: <video src="" controls poster="" width=""></video>
+Thumbnail: <video src="" controls poster=""></video>
+
+Links for another tab:
+<a href="link" target="_blank">Link</a>
+
+Ordered Lists:
+Different bullet points: <ol type="">
+
+Unordered lists:
+To remove bullet points use:
+ul {
+  list-style-type: none;
+}
+
+Note: Descriptive lists exits!
+
+Table Example:
+<table>
+  <thead>
+    <caption></caption>
+    <th></th>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+Dont forget colspan attribute!
+
+// HTML uses 2 main ways to display elements: Bock & Inline.
+// Div = Block
+// Span = Inline
+
+Input:
+<input type="text" name="" value="">
+
+iframe:
+<iframe src="" width="" height="" frameborder=""></iframe>

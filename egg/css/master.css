@@ -1,0 +1,83 @@
+@font-face {
+  font-family: roboto-thin;
+  src: url(/Fonts/Roboto-Fonts/Roboto-Thin.ttf);
+}
+
+@font-face {
+  font-family: roboto-bold;
+  src: url(/Fonts/Roboto-Fonts/Roboto-Bold.ttf);
+}
+
+
+
+body {
+  background-color: #ffea00;
+  font-family: roboto-bold;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.egg_hero {
+  font-size: 600%;
+  margin-top: 20%;
+  margin-bottom: 20%;
+}
+
+g {
+  background-color: black;
+  color: #ffea00;
+  padding: 0 10px;
+}
+
+.egg {
+  padding-right: 10px;
+  shadow: 10px solid #ffffff;
+}
+pre {
+  font-family: roboto-thin;
+}
+
+.what-egg {
+  text-align: left;
+  padding: 0% 0% 25% 5%;
+  font-size: 200%;
+}
+
+.how_egg {
+  text-align: right;
+  padding: 0% 5% 25% 0%;
+  font-size: 200%;
+  text-decoration: none;
+}
+
+.how_egg p {
+  font-family: roboto-thin;
+  text-decoration: none;
+  color: black;
+}
+
+.why_egg {
+  text-align: left;
+  padding: 0% 0% 25% 5%;
+  font-size: 200%;
+}
+
+.egg_good {
+  text-align: left;
+  padding: 0% 0% 10% 5%;
+  font-size: 200%;
+}
+
+
+.egg_good ul {
+  font-family: roboto-thin;
+  text-decoration: none;
+  color: black;
+}
